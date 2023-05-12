@@ -1,0 +1,87 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: black;
+    color: white;
+    padding-top: 100px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+header img {
+    height: 50px;
+    margin-right: 18px;
+}
+
+form {
+    display: flex;
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 56px;
+}
+
+form input {
+    margin-right: 18px;
+    background-color: white;
+    color: black;
+    border: none;
+    font-size: 24px;
+    padding: 8px;
+    border-bottom: 3px solid #0086f1;
+}
+
+form button {
+    border: none;
+    color: white;
+    background-color: #0086f1;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24px;
+    padding: 8px;
+    border-bottom: 3px solid #0086f1;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+}
+
+table th {
+    margin-bottom: 16px;
+    font-size: 24px;
+    border-bottom: 2px solid grey;
+    padding-bottom: 16px;
+}
+
+table td {
+    text-align: center;
+    font-size: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 16px 0;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 28.5% 0px 16px 0px;
+}
