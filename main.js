@@ -16,10 +16,10 @@ function addLinha(){
     const inputNumero = document.getElementById('numeroAgenda');
 
     if (numerosAgenda.includes(inputNumero.value) && nomesAgenda.includes(inputNome.value)){
-        alert(`O número ${inputNumero.value} já está cadastrado na agenda.\nO nome ${inputNome.value} já está cadastrado na agenda. Por favor, escolha outro nome para o contato.`);
+        alert(`O número ${inputNumero.value} já está cadastrado na agenda!\nO nome ${inputNome.value} já está cadastrado na agenda. Por favor, escolha outro nome para o contato.`);
     }
     else if (numerosAgenda.includes(inputNumero.value)){
-        alert(`O número ${inputNumero.value} já está cadastrado na agenda.`);
+        alert(`O número ${inputNumero.value} já está cadastrado na agenda!`);
     }
     else if (nomesAgenda.includes(inputNome.value)){
         alert(`O nome ${inputNome.value} já está cadastrado na agenda. Por favor, escolha outro nome para o contato.`);
