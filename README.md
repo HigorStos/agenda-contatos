@@ -21,7 +21,5 @@ Neste projeto próprio, consegui aplicar os conceitos de HTML, CSS e JavaScript 
 
 ## 📔 Conhecimentos utilizados
 
-- [x] Uso semântico do HTML
-- [x] Uso do CSS Flexbox
 - [x] Uso do DOM com JavaScript
 - [x] Uso de Arrays com JavaScript
