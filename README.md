@@ -15,6 +15,7 @@ Neste projeto próprio, consegui aplicar os conceitos de HTML, CSS e JavaScript 
 
 ## 🚀 Tecnologias
 
+- JavaScript
 - HTML
 - CSS
 
