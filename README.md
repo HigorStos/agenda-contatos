@@ -6,7 +6,7 @@
 
 <h3>LINK: https://agenda-contatos-wine.vercel.app/</h3>
 <a href="https://agenda-contatos-wine.vercel.app/" target="_blank">
- <img src="./images/preview.png" width="100%" style="border-radius: 6px" />
+ <img src="./preview.png" width="100%" style="border-radius: 6px" />
 </a>
 
 ## 💻 Projeto
