@@ -11,7 +11,7 @@
 
 ## 💻 Projeto
 
-Projeto próprio, onde consegui aplicar os conceitos de HTML, CSS e JavaScript para a criação de uma Agenda de Contatos, como projeto de conclusão de módulo na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
+Projeto próprio, onde consegui aplicar os conceitos de JavaScript, CSS e HTML para a criação de uma Agenda de Contatos, utilizado como projeto de conclusão de módulo na EBAC - Escola Britânica de Artes Criativas e Tecnologia.
 
 ## 🚀 Tecnologias
 
@@ -21,5 +21,5 @@ Projeto próprio, onde consegui aplicar os conceitos de HTML, CSS e JavaScript p
 
 ## 📔 Conhecimentos utilizados
 
-- [x] Uso do DOM com JavaScript
+- [x] Uso do DOM JavaScript
 - [x] Uso de Arrays com JavaScript
